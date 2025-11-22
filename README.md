@@ -39,6 +39,7 @@ At its core, **CoreLang** is a multi-language interpreter that executes scripts 
 
 ## Architecture Overview
 
+```
 
 ┌───────────────────────────┐
 │        Bootloader          │
@@ -66,6 +67,7 @@ At its core, **CoreLang** is a multi-language interpreter that executes scripts 
 │       Applications / Scripts │
 └───────────────────────────┘
 
+```
 
 ---
 
